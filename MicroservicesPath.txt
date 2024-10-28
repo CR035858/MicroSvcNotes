@@ -1,0 +1,10 @@
+https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/microservices#:~:text=A%20microservices%20architecture%20consists%20of,which%20a%20domain%20model%20exists.
+
+https://microservices.io/patterns/microservices.html
+
+Demo Videos
+https://www.youtube.com/watch?v=5bauXv7BZUY
+
+
+Discussion:
+https://www.youtube.com/watch?v=9eqrhe2XMbA
