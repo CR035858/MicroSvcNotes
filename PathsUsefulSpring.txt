@@ -1,0 +1,235 @@
+SPRING BOOT
+https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x
+================================FOLLOWING DEMOS TRIED AND TESTED n WORKING FOR NTL XEBIA TRG - OCT-NOV2020=====================
+1)
+Telusko Simple Controller View [Tried n Working]
+https://www.youtube.com/watch?v=g2b-NbR48Jo
+
+------------------------------------------------
+2)
+Java Based configuration MVC app [Tried n Working NO DB CONNECT]
+https://www.youtube.com/watch?v=7ArHUCL_RRc
+------------------------------------------------
+3)
+CRUD using SpringJDBC[Tried n Working]
+https://www.youtube.com/watch?v=-wddkBQZuPs
+
+-----------------------------------------------
+4)
+CRUDHIbernate-SpringMVC-JPA-HIbernate[Same guy of SpringJDBC-[Tried n having a check on its working] Nam Ma Minh -Java
+https://www.youtube.com/watch?v=JfeCmn8NT88
+
+------------------------------------------------
+5)
+SpringMVCHibernate[Good to try -currently tried and working]
+https://www.youtube.com/watch?v=rdYQOqxq9F0
+------------------------------------------------
+6) Spring Core [Tried n Working]
+JavaBrains:Spring Core java brains
+https://www.youtube.com/watch?v=0lqlg5tnDag
+===============================================UPTO THE ABOVE TRIED AND TESTED FOR NTL XEBIA TRG - OCT-NOV2020=====================
+------------------------------------------------
+Spring MVC Hibernate - NetBeans
+https://www.youtube.com/watch?v=j74pXuZuUh0
+---------------------------------------------------
+
+
+https://www.youtube.com/watch?v=rdYQOqxq9F0
+
+When Java based configuration is done for 
+dispatcher servlet, web.xml could be empty
+
+UNDERSTANDING TELUSKO WAY OF JPA--- Hiber/Toplink/iBatis
+https://www.youtube.com/watch?v=otinfgwkMbY
+
+SPRING MVC CRUD Hibernate JQuery/JSON
+https://www.youtube.com/watch?v=8Gq-fEsN80U
+
+Jersey WebServices:
+https://www.youtube.com/watch?v=Segb1V9ygiA
+
+WEBSERVICES USING:
+https://www.javaguides.net/2020/01/resteasy-hello-world-example-tutorial.html
+
+LOGGING:
+https://examples.javacodegeeks.com/enterprise-java/spring/mvc/spring-mvc-using-log4j-example/
+-------------
+programmatic Persistence . xml
+https://www.baeldung.com/java-bootstrap-jpa
+====================================================WEB SERVICES=============================================
+https://www.java2novice.com/spring-mvc/rest-hello-world-example/
+
+http://www.tutorialsdesk.com/2016/01/spring-rest-hello-world-json-tutorial.html
+
+commons-logging-1.2.jar
+jackson-annotations-2.6.0.jar
+jackson-core-2.6.0.jar
+jackson-databind-2.6.0.jar
+spring-aop-4.1.4.RELEASE.jar
+spring-beans-4.1.4.RELEASE.jar
+spring-context-4.1.4.RELEASE.jar
+spring-core-4.1.4.RELEASE.jar
+spring-expression-4.1.4.RELEASE.jar
+spring-web-4.1.4.RELEASE.jar
+spring-webmvc-4.1.4.RELEASE.jar
+===============================================SPRING BOOT===================================================
+https://www.javatpoint.com/spring-boot-hello-world-example
+
+https://www.javainuse.com/spring/SpringBoot_HelloWorld
+
+Currently working:good link
+https://www.youtube.com/watch?v=J4yE1-blNs8
+
+CHECK FOR CRUD RESTFul
+https://www.youtube.com/watch?v=3-5e5cXfwrU
+or decide
+Promising One check 38 minutes
+https://www.youtube.com/watch?v=eWbGV3LLwVQ [POSTGRESQL]
+
+https://www.youtube.com/watch?v=QXFgzomuDOg [MYSQL]
+==========================================================================
+SPRING SECURITY 
+https://www.youtube.com/watch?v=TNt3GHuayXs
+===========================DOCKER==================================
+https://www.youtube.com/watch?v=u-YWtdbpEhQ
+==============================================================MAVEN SPRING BOOT - SOAP WEBSERVICE
+Good One
+TRY 02 attempt
+https://www.javainuse.com/spring/springbootsoapwebservice
+https://www.javainuse.com/spring/springbootsoapwebservice
+
+TRY 01 attempt - failed
+https://www.theserverside.com/video/Step-by-step-SOAP-web-services-example-in-Java-using-Eclipse
+
+TRY 03 - failed schema failed
+
+https://www.youtube.com/watch?v=ceSqN3CWd14
+
+=========================
+MAVEN RELATED
+https://www.baeldung.com/maven-goals-phases
+
+http://maven.apache.org/what-is-maven.html
+===================================SPRING BOOT REST FUL=================================================
+[with request param]:following one
+https://www.youtube.com/watch?v=EDgCHCFKo8c
+
+[
+https://www.youtube.com/watch?v=YEEUn5JZ9t0 [with documentation info+POST+PUT etc]
+USING currently one above imdtly:
+]
+Exception Handling:following one
+https://www.youtube.com/watch?v=2o7LJLTIgdE
+https://www.youtube.com/watch?v=jFZ4lLLkT7M
+
+Learn REST in 1 hour
+https://www.youtube.com/watch?v=sdDDuQuX2cg
+
+CRUD
+https://www.youtube.com/watch?v=8TEAycT5HfY
+
+UNIT TESTING:
+https://www.youtube.com/watch?v=RbZvXCAtMus
+
+RESTFUL-WHAT IS IT?
+1
+https://www.youtube.com/watch?v=qVTAB8Z2VmA
+1:
+https://www.youtube.com/watch?v=LooL6_chvN4
+
+
+https://www.youtube.com/watch?v=RbZvXCAtMus
+
+REST vs SOAP
+https://www.youtube.com/watch?v=xq09ow7RuZA
+============================================MICROSERVICES----------------------------------
+USING:NOW 17/05/2021
+https://www.youtube.com/watch?v=x9nWFOSzT20 [NOT GOOD]
+
+
+Microservices with SpringBoot
+https://www.youtube.com/watch?v=BnknNTN8icw
+
+
+
+MicroServices Interview Based Questions:Professional level
+https://www.youtube.com/watch?v=o36vWQCRrp0
+
+
+MicroServices Q&A
+https://www.youtube.com/watch?v=9eqrhe2XMbA
+
+https://www.youtube.com/watch?v=qFaijUFxbmk
+
+https://medium.com/nerd-for-tech/create-serverless-microservice-hello-world-rest-api-step-by-step-502555dc48a1
+
+https://www.youtube.com/watch?v=SPATMHP-xw8
+
+https://developer.okta.com/blog/2019/05/22/java-microservices-spring-boot-spring-cloud
+
+For students:
+https://medium.com/omarelgabrys-blog/microservices-with-spring-boot-intro-to-microservices-part-1-c0d24cd422c3
+Demo:
+https://github.com/OmarElGabry/microservices-spring-boot
+https://dzone.com/articles/how-to-create-microservices-using-spring
+
+extra
+abt api
+https://www.youtube.com/watch?v=1vjOv_f9L8I
+abt proxy
+https://www.youtube.com/watch?v=AuINJdBPf8I
+Series:
+1:
+https://www.youtube.com/watch?v=y8IQb4ofjDo
+2:
+https://www.youtube.com/watch?v=cZ7tUuHjiQM
+3:
+https://www.youtube.com/watch?v=kq_0goMjKOs
+4:
+https://www.youtube.com/watch?v=TlwXd29DTrQ
+5:
+https://www.youtube.com/watch?v=VGK7iZ12tFc
+6:
+https://www.youtube.com/watch?v=ZvSRcsdqpsk
+7:
+https://www.youtube.com/watch?v=76MEPTM2ARI
+8:
+https://www.youtube.com/watch?v=bTFIduBgXuo
+9:
+https://www.youtube.com/watch?v=i6ipBFb-5YM
+10:
+https://www.youtube.com/watch?v=UBnSkjsJ-ow
+11:
+https://www.youtube.com/watch?v=WPKv8NA-ZhE
+12:
+https://www.youtube.com/watch?v=gDHSLKmG8ZQ
+https://www.youtube.com/watch?v=hzOf41B-xtE     //correct one microservices level1
+13:
+https://www.youtube.com/watch?v=F3uJyeAyv5g ---->check for
+14:
+https://www.youtube.com/watch?v=dVwkvkUTTiY
+15
+https://www.youtube.com/watch?v=Dmvhe2cw-_k
+16:
+https://www.youtube.com/watch?v=qmukkADyoQ0
+17:
+https://www.youtube.com/watch?v=e09P-CkCvvs  -- micro registration/location starts
+https://www.youtube.com/watch?v=xpg29DL-ozk
+18
+https://www.youtube.com/watch?v=_QezR9wkBKs
+19:
+https://www.youtube.com/watch?v=GTM2J0nYmbs
+20
+https://www.youtube.com/watch?v=jhvJg4tDrpw
+21:
+https://www.youtube.com/watch?v=GxLjcOE35oA
+22:
+https://www.youtube.com/watch?v=tG2dA6zyEgM
+
+To Search the entire series in YouTube  Type
+18/19 etc Understanding Service Discovery - Spring Boot Microservices Level 1
+
+================================================DOCKER=====================
+https://www.youtube.com/watch?v=u-YWtdbpEhQ
+
+
